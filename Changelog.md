@@ -40,7 +40,7 @@ FeatureUnlock Changelog
 
 ### v1.0.6
 - Removed AssetCache Patch
-  - Superseded by [RestrictEvents's `-revasset`](https://github.com/acidanthera/RestrictEvents)
+  - Superseded by [RestrictEvents's `-revasset`](https://github.com/devicemanager/RestrictEvents)
 - Renamed MODULE_SHORT to "fu_fix"
 - Lowered OS requirement to macOS Sierra
   - NightShift introduced in 10.12.4

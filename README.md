@@ -1,9 +1,9 @@
 FeatureUnlock
 ==============
 
-[![Build Status](https://github.com/acidanthera/FeatureUnlock/workflows/CI/badge.svg?branch=master)](https://github.com/acidanthera/FeatureUnlock/actions) [![Scan Status](https://scan.coverity.com/projects/23354/badge.svg?flat=1)](https://scan.coverity.com/projects/23354)
+[![Build Status](https://github.com/devicemanager/FeatureUnlock/workflows/CI/badge.svg?branch=master)](https://github.com/devicemanager/FeatureUnlock/actions) [![Scan Status](https://scan.coverity.com/projects/23354/badge.svg?flat=1)](https://scan.coverity.com/projects/23354)
 
-[Lilu](https://github.com/acidanthera/Lilu) Kernel extension for enabling:
+[Lilu](https://github.com/devicemanager/Lilu) Kernel extension for enabling:
 * [Sidecar](https://support.apple.com/HT210380)
 * [NightShift](https://support.apple.com/guide/mac-help/use-night-shift-mchl97bc676d/mac)
 * [AirPlay to Mac](https://www.apple.com/airplay/) or additional info [here](https://support.apple.com/HT204289)
